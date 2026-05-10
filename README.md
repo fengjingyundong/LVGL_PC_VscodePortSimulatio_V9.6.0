@@ -1,0 +1,2 @@
+# LVGL_PC_VscodePortSimulatio_V9.6.0
+LVGL_Vscode配置PC端模拟开发环境
